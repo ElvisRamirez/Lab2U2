@@ -80,8 +80,10 @@ Node.js es un entorno de ejecución para JavaScript del lado del servidor, permi
 
 > *Vista de ejemplo con fondo estilo WhatsApp, lista de usuarios a la izquierda y burbujas de chat diferenciadas.*
 
----
-
+**Imagen 2: Estructura de sript**
+![Estructura del chat](src/public/img/image.png)
+**Imagen 3: Estructura de html**
+![Estructura del chat](src/public/img/image.png)
 ## 7. DISCUSIÓN
 
 La implementación de esta práctica permitió aplicar de manera integral conocimientos de desarrollo web, desde la configuración de un servidor Express hasta el consumo de APIs REST y la integración de Socket.io. Al diseñar la interfaz estilo WhatsApp, se reforzó el manejo de CSS flexbox y media queries, garantizando la responsividad en distintos dispositivos. La arquitectura modular del proyecto fomentó buenas prácticas de mantenimiento y escalabilidad. Además, el uso de Git y GitHub facilitó el control de versiones y la colaboración.
