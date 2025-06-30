@@ -76,7 +76,7 @@ Node.js es un entorno de ejecución para JavaScript del lado del servidor, permi
 
 **Imagen 1: Estructura de la interfaz estilo WhatsApp**
 
-![Estructura del chat](https://i.imgur.com/NTyX8Zl.png)
+![Estructura del chat](image.png)
 
 > *Vista de ejemplo con fondo estilo WhatsApp, lista de usuarios a la izquierda y burbujas de chat diferenciadas.*
 
