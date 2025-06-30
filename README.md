@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/9a1fd93e-c972-455f-9436-95dc96b56177)# Desarrollo de Chat Web Estilo WhatsApp con Lista de Usuarios en Tiempo Real
+# Desarrollo de Chat Web Estilo WhatsApp con Lista de Usuarios en Tiempo Real
 
 **Nombre del estudiante:**  
-Liseth Poma
+Elvis Alexander Ramirez Quishpe
 
 ---
 
@@ -82,8 +82,12 @@ Node.js es un entorno de ejecución para JavaScript del lado del servidor, permi
 
 **Imagen 2: Estructura de sript**
 ![Estructura del chat](src/public/img/inicio.png)
+
 **Imagen 3: Estructura de html**
+
+
 ![Estructura del chat](src/public/img/index.PNG)
+
 ## 7. DISCUSIÓN
 
 La implementación de esta práctica permitió aplicar de manera integral conocimientos de desarrollo web, desde la configuración de un servidor Express hasta el consumo de APIs REST y la integración de Socket.io. Al diseñar la interfaz estilo WhatsApp, se reforzó el manejo de CSS flexbox y media queries, garantizando la responsividad en distintos dispositivos. La arquitectura modular del proyecto fomentó buenas prácticas de mantenimiento y escalabilidad. Además, el uso de Git y GitHub facilitó el control de versiones y la colaboración.
